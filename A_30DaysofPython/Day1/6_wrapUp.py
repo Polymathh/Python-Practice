@@ -1,0 +1,1 @@
+print('\n Congratulations on completeing day 1!')
